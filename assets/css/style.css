@@ -966,6 +966,16 @@ section .container {
   height: 100%;
   width: 100%;
 }
+#bash img{
+  height: 100%;
+  width: 100%;
+}
+
+#siteWeb img, #siteWeb2 img, #siteWeb3 img{
+  height: 100%;
+  width: 100%;
+}
+
 
 /*--------------------------------------------------------------
 # Portfolio Details
