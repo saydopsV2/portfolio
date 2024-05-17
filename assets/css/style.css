@@ -966,12 +966,12 @@ section .container {
   height: 100%;
   width: 100%;
 }
-#bash img{
+#bash img, #sqlpy img, #sqlpy2 img, #sqlpy3 img{
   height: 100%;
   width: 100%;
 }
 
-#siteWeb img, #siteWeb2 img, #siteWeb3 img{
+#siteWeb img, #siteWeb2 img, #siteWeb3 img, #bd img, #bd2 img{
   height: 100%;
   width: 100%;
 }
