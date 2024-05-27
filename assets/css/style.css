@@ -971,7 +971,13 @@ section .container {
   height: 100%;
   width: 100%;
 }
-#bash img, #sqlpy img, #sqlpy2 img, #sqlpy3 img{
+
+#graph img{
+  height: 100%;
+  width: 100%;  
+}
+
+#bash img, #sqlpy img, #sqlpy2 img, #sqlpy3 img, #graph2 img{
   height: 100%;
   width: 100%;
 }
