@@ -962,14 +962,19 @@ section .container {
   right: 15px;
 }
 
-#towa2 img{
-  height: 55%;
-  width: 55%;
+#towa img{
+  height: auto;
+  width: 75%;
 }
 
 #folium img{
   height: 100%;
   width: 100%;
+}
+
+#javaLogo img{
+  height: 7.5%;
+  width: 7.5%;
 }
 
 #graph img{
