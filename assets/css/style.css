@@ -724,7 +724,7 @@ section .container {
   border: 2px solid #18bcd2;
 }
 
-#windsurf{
+#windsurf, #windsurf2{
   width: 20%;
   height: 20%;
 }
